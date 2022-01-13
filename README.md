@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lpwMei
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning javaweb and cv
+- 👀 I’m interested in workhard
+- 🌱 I’m currently learning spingcloud and cv
 - 💞️ I’m looking to collaborate on hardworking
 - 📫 How to reach me lpw.liu@qq.com
 
